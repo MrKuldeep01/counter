@@ -1,1 +1,1 @@
-# counter : This is simple counter 🙂 try this one from here... ttps://counte.netlify.app
+# counter : This is simple counter 🙂 try this one from here... https://counte.netlify.app
